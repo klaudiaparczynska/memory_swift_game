@@ -12,6 +12,7 @@ struct lab2_KPApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            Text("test")
         }
     }
 }
